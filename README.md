@@ -1,12 +1,11 @@
 # bizzabo-crawler
 
-run: 
-cd /
+## Run
 
-mvn clean
-mvn compile
-mvn install
-mvn exec:java 
+-mvn clean
+-mvn compile
+-mvn install
+-mvn exec:java 
 
  
 
