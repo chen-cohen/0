@@ -5,7 +5,7 @@ cd /crawler
 
 mvn clean
 mvn compile
-mv install
+mvn install
 mvn exec:java 
 
  
