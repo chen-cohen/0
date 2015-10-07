@@ -1,7 +1,7 @@
 # bizzabo-crawler
 
 run: 
-cd /crawler
+cd /
 
 mvn clean
 mvn compile
